@@ -1,3 +1,5 @@
 :a
 
-:hfuehuehf
+:word
+
+:with-hyphen

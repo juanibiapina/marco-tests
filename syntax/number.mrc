@@ -1,5 +1,3 @@
-2
+2 // simple number
 
-42
-
-123456789
+123456789 // big number
